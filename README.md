@@ -17,7 +17,7 @@ In this challenge, you will be building a choose your own adventure game like Ba
 - [x] Display the Story in the App;
 - [x] Display the Choices in the App;
 - [x] Update the Story based on User Choice;
-- [ ] Use the Story Plan to Progress through the Story;
+- [x] Use the Story Plan to Progress through the Story;
 - [ ] Restart the Game When the User Reaches the End;
 - [ ] Renaming and Refactoring Using Android Studio;
 - [ ] Hiding Buttons.
