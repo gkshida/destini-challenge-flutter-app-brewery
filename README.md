@@ -20,7 +20,7 @@ In this challenge, you will be building a choose your own adventure game like Ba
 - [x] Use the Story Plan to Progress through the Story;
 - [x] Restart the Game When the User Reaches the End;
 - [x] Renaming and Refactoring Using Android Studio;
-- [ ] Hiding Buttons.
+- [x] Hiding Buttons.
 
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
