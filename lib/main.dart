@@ -14,7 +14,6 @@ class Destini extends StatelessWidget {
   }
 }
 
-//TODO: Step 9 - Create a new storyBrain object from the StoryBrain class.
 StoryBrain storyBrain = StoryBrain();
 
 class StoryPage extends StatefulWidget {
@@ -42,7 +41,6 @@ class _StoryPageState extends State<StoryPage> {
                 flex: 12,
                 child: Center(
                   child: Text(
-                    //TODO: Step 10 - use the storyBrain to get the first story title and display it in this Text Widget.
                     storyBrain.getStory(),
                     style: TextStyle(
                       fontSize: 25.0,

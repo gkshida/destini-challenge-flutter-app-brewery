@@ -14,7 +14,7 @@ In this challenge, you will be building a choose your own adventure game like Ba
 - [x] Adding a Image as a Background;
 - [x] Create a new Story Class;
 - [x] Create the Story Brain;
-- [ ] Display the Story in the App;
+- [x] Display the Story in the App;
 - [ ] Display the Choices in the App;
 - [ ] Update the Story based on User Choice;
 - [ ] Use the Story Plan to Progress through the Story;
