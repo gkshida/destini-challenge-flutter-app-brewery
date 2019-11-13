@@ -1,7 +1,7 @@
 import 'package:destini_challenge_starting/story.dart';
 
 class StoryBrain {
-  int storyNumber = 0;
+  int _storyNumber = 0;
   List<Story> _storyData = [
     Story(
         storyTitle:
@@ -46,7 +46,21 @@ class StoryBrain {
     return _storyData.first.choice2;
   }
 
-  void nextStory(int choiceNumber) {}
+  void nextStory(int choiceNumber) {
+    if (_storyNumber == 0 && choiceNumber == 1) {
+      _storyNumber = 2;
+    } else if (_storyNumber == 0 && choiceNumber == 2) {
+      _storyNumber = 1;
+    } else if (_storyNumber == 1 && choiceNumber == 1) {
+      _storyNumber = 2;
+    } else if (_storyNumber == 1 && choiceNumber == 2) {
+      _storyNumber = 3;
+    } else if (_storyNumber == 2 && choiceNumber == 1) {
+      _storyNumber = 5;
+    } else if (_storyNumber == 2 && choiceNumber == 2) {
+      _storyNumber = 4;
+    }
+  }
 }
 //TODO: Step 23 - Use the storyNumber property inside getStory(), getChoice1() and getChoice2() so that it gets the updated story and choices rather than always just the first (0th) one.
 
