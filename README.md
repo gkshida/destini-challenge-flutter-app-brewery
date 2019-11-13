@@ -12,7 +12,7 @@ In this challenge, you will be building a choose your own adventure game like Ba
 - [x] Set Up the Project;
 - [x] Familiarise Yourself with the Starting Project;
 - [x] Adding a Image as a Background;
-- [ ] Create a new Story Class;
+- [x] Create a new Story Class;
 - [ ] Create the Story Brain;
 - [ ] Display the Story in the App;
 - [ ] Display the Choices in the App;
