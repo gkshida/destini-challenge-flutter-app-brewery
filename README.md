@@ -16,7 +16,7 @@ In this challenge, you will be building a choose your own adventure game like Ba
 - [x] Create the Story Brain;
 - [x] Display the Story in the App;
 - [x] Display the Choices in the App;
-- [ ] Update the Story based on User Choice;
+- [x] Update the Story based on User Choice;
 - [ ] Use the Story Plan to Progress through the Story;
 - [ ] Restart the Game When the User Reaches the End;
 - [ ] Renaming and Refactoring Using Android Studio;
