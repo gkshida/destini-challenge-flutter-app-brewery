@@ -9,9 +9,9 @@ In this challenge, you will be building a choose your own adventure game like Ba
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
 
-- [ ] Set Up the Project;
-- [ ] Familiarise Yourself with the Starting Project;
-- [ ] Adding a Image as a Background;
+- [x] Set Up the Project;
+- [x] Familiarise Yourself with the Starting Project;
+- [x] Adding a Image as a Background;
 - [ ] Create a new Story Class;
 - [ ] Create the Story Brain;
 - [ ] Display the Story in the App;
